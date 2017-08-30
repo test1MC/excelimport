@@ -1,0 +1,468 @@
+/*<meta sourceDocument="C:\Users\dspencer\Desktop\ExcelFiles\Marketing project plan1.xlsx" />*/
+
+table
+{
+	padding: 0;
+	margin: 0;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+col
+{
+	width: 65px;
+	padding: 0;
+	margin: 0;
+}
+
+tr
+{
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+td
+{
+	font-family: Calibri;
+	font-size: 11px;
+	background: white;
+	color: black;
+	padding: 0px;
+	border: none;
+}
+
+.Default
+{
+	text-align: left;
+	vertical-align: middle;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s22
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	border-top-style: dotted;
+	border-top-width: 3px;
+	border-top-color: #FFFFFF;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #70561B;
+	background-color: #F5EDDA;
+}
+
+.s24
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	border-top-style: dotted;
+	border-top-width: 3px;
+	border-top-color: #FFFFFF;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #306376;
+	background-color: #D5E7EE;
+}
+
+.s26
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	border-top-style: dotted;
+	border-top-width: 3px;
+	border-top-color: #FFFFFF;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #54663C;
+	background-color: #E2E9DA;
+}
+
+.s28
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	border-top-style: dotted;
+	border-top-width: 3px;
+	border-top-color: #FFFFFF;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #742E36;
+	background-color: #EED5D8;
+}
+
+.s23
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	border-top-style: dotted;
+	border-top-width: 3px;
+	border-top-color: #FFFFFF;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #70561B;
+	background-color: #EDDCB4;
+}
+
+.s25
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	border-top-style: dotted;
+	border-top-width: 3px;
+	border-top-color: #FFFFFF;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #20424F;
+	background-color: #ABD0DE;
+}
+
+.s27
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	border-top-style: dotted;
+	border-top-width: 3px;
+	border-top-color: #FFFFFF;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #384428;
+	background-color: #C6D3B4;
+}
+
+.s29
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	border-top-style: dotted;
+	border-top-width: 3px;
+	border-top-color: #FFFFFF;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #4E1F25;
+	background-color: #DDAAB0;
+}
+
+.s20
+{
+	text-align: right;
+	vertical-align: middle;
+}
+
+.s30
+{
+	text-align: right;
+	vertical-align: middle;
+}
+
+.s16
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #808080;
+	font-family: "Georgia", "Roman";
+	font-size: 11px;
+	color: #595959;
+}
+
+.s18
+{
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.s19
+{
+	text-align: left;
+	vertical-align: bottom;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+	font-weight: bold;
+}
+
+.s31
+{
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+.s33
+{
+	border-left-style: dotted;
+	border-left-width: 1px;
+	border-left-color: #808080;
+	border-top-style: dotted;
+	border-top-width: 1px;
+	border-top-color: #808080;
+}
+
+.s34
+{
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #808080;
+	border-top-style: dotted;
+	border-top-width: 1px;
+	border-top-color: #808080;
+}
+
+.s17
+{
+	vertical-align: middle;
+	font-family: "Georgia", "Swiss";
+	font-size: 26px;
+	color: #000000;
+}
+
+.s35
+{
+	border-top-style: dotted;
+	border-top-width: 1px;
+	border-top-color: #808080;
+}
+
+.s36
+{
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s37
+{
+	vertical-align: middle;
+}
+
+.s38
+{
+	font-family: "Euphemia", "Swiss";
+	font-size: 9px;
+	color: #000000;
+}
+
+.s39
+{
+	vertical-align: middle;
+}
+
+.s41
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	background-color: #ABD0DE;
+}
+
+.s43
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	background-color: #EDDCB4;
+}
+
+.s45
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	background-color: #DDAAB0;
+}
+
+.s47
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	background-color: #C6D3B4;
+}
+
+.s49
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	background-color: #F5EDDA;
+}
+
+.s51
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	background-color: #EED5D8;
+}
+
+.s53
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	background-color: #E2E9DA;
+}
+
+.s55
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: #FFFFFF;
+	background-color: #D5E7EE;
+}
+
+.s56
+{
+	text-align: left;
+	vertical-align: middle;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s57
+{
+	vertical-align: middle;
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s58
+{
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s59
+{
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s60
+{
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s61
+{
+	
+}
+
+.s62
+{
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s63
+{
+	font-family: "Euphemia", "Swiss";
+	font-size: 11px;
+	color: #000000;
+}
+
+.s69
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
